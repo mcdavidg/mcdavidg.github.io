@@ -79,6 +79,7 @@ article {
   width: calc( var(--width-pg0) - 150px );
   padding: 20px;
   font-size: 1.6rem;
+  border-right: 1px solid black;
 }
 /*---------------------------------------------------*/
 /*---------------------------------------------------*/
