@@ -1,0 +1,27 @@
+@media (min-width: 600px) {
+/*-----------------------------------*/
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: stretch;
+}
+/*-----------------------------------*/
+aside {
+    width: 30%;
+}
+/*---------------------------------------------------*/
+.a-container {
+display: block;
+}
+/*---------------------------------------------------*/
+.a-menu li {
+    display: block;
+    margin-left: 0.8rem;
+}
+/*-----------------------------------*/
+main {
+    width: 70%;
+}
+/*-----------------------------------*/
+}
