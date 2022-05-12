@@ -1,4 +1,4 @@
-@media (min-width: 800px) {
+@media only screen and (min-device-width: 800px) {
 
     .h-container {
         width: 800px;
