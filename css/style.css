@@ -39,6 +39,7 @@ header {
 .h-container img {
     height: 10rem;
     margin: 0.5rem;
+    border-radius: 2.5rem;
 }
 /*---------------------------------------------------*/
 .h-container p {
