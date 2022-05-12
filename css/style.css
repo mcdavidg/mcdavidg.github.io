@@ -1,7 +1,7 @@
 /*---------------------------------------------------*/
 :root {
     --color-bk0: rgb(255, 255, 255);
-    --color-bk1: rgb(24, 12, 192); 
+    --color-bk1: rgb(53, 41, 219); 
     --color-bk2: rgb(185, 181, 187);
     --color-bk3: rgb(192, 192, 229);
     --color-ft0: black;
@@ -38,9 +38,6 @@ header {
 /*---------------------------------------------------*/
 .h-container img {
     height: 10rem;
-    border-color: yellow;
-    border-style: solid;
-    border-radius: 3rem;
     margin: 0.5rem;
 }
 /*---------------------------------------------------*/
