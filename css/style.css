@@ -74,7 +74,12 @@ aside {
 main {
     background-color: var(--color-bk3);
     font-size: 1.6rem;
-    padding: 1rem;
+    padding: 1.5rem;
+}
+/*---------------------------------------------------*/
+p {
+    margin-bottom: 1rem;
+    text-align: justify;
 }
 /*---------------------------------------------------*/
 footer {
