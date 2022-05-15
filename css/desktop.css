@@ -1,12 +1,12 @@
-@media only screen and (min-device-width: 800px) {
+@media only screen and (min-device-width: 1020px) {
 
     .h-container {
-        width: 800px;
+        width: 1020px;
         margin: auto;
     }
 
     .container {
-        width: 800px;
+        width: 1020px;
         margin: auto;
     }
 

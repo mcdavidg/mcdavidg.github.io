@@ -1,4 +1,4 @@
-@media only screen and (min-device-width: 600px) {
+@media only screen and (min-device-width: 770px) {
 /*-----------------------------------*/
 .container {
     display: flex;
@@ -9,15 +9,13 @@
 /*-----------------------------------*/
 aside {
     width: 20%;
-}
-/*---------------------------------------------------*/
-.a-container {
-display: block;
+    display: block;
 }
 /*---------------------------------------------------*/
 .a-menu li {
     display: block;
     margin-left: 0.8rem;
+    margin-top: 0.5rem;
 }
 /*-----------------------------------*/
 main {
