@@ -1,25 +1,26 @@
-@media only screen and (min-device-width: 770px) {
-/*-----------------------------------*/
-.container {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: stretch;
-}
-/*-----------------------------------*/
-aside {
-    width: 20%;
-    display: block;
-}
-/*---------------------------------------------------*/
-.a-menu li {
-    display: block;
-    margin-left: 0.8rem;
-    margin-top: 0.5rem;
-}
-/*-----------------------------------*/
-main {
-    width: 80%;
-}
-/*-----------------------------------*/
+@media only screen and (min-device-width: 900px) {
+    /*-----------------------------------*/
+    /*-----------------------------------*/
+    .container {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: stretch;
+    }
+    /*-----------------------------------*/
+    aside {
+        width: 20%;
+        display: block;
+    }
+    /*-----------------------------------*/
+    .a-menu li {
+        display: block;
+        margin-left: 0.8rem;
+        margin-top: 0.5rem;
+    }
+    /*-----------------------------------*/
+    main {
+        width: 80%;
+    }
+    /*-----------------------------------*/
 }
